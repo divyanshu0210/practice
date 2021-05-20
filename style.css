@@ -34,7 +34,7 @@
    background-color: #0099cc;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 2000px) {
   /* For desktop: */
   .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
@@ -50,7 +50,7 @@
  .col-12 {width:100%;}
 }
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 1500px) {
   /* For tablets: */
   .col-s-1 {width: 8.33%;}
   .col-s-2 {width: 16.66%;}
